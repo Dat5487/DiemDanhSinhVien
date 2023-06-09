@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "350808437800",
+    "firebase_url": "https://diemdanh-e0c63-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "diemdanh-e0c63",
+    "storage_bucket": "diemdanh-e0c63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350808437800:android:030312fb41e9a5d6b8311d",
+        "android_client_info": {
+          "package_name": "com.halonguniversity.diemdanh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350808437800-hl27l87ofb08k63tkic52kock6h06rr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJZYaPY6XqEe9dgUZp3jvi1Png0MO_zGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350808437800-hl27l87ofb08k63tkic52kock6h06rr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
